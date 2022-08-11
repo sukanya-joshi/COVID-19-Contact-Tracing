@@ -24,6 +24,6 @@ Citation:
     }
     
 ```
-APA:
+APA
 Dixon, E. L., Joshi, S. M., Ferrell, W., Volpp, K. G., Merchant, R. M., & Guntuku, S. C. (2022). COVID-19 Contact Tracing App Reviews Reveal Concerns and Motivations around Adoption. Public Library of Science (PLOS) One
 ```
