@@ -13,3 +13,12 @@ Methods: We collected review text, star rating, and date of rating for all the r
 Results: Of 7622 reviews obtained from 26 states between 04/07/2020 to 03/31/2021, 6364 were from Google Play Store, and 1258 were from Apple App Store. We obtained reviews for a total of 38 apps, with 25 apps from the Google Play Store and 13 apps from the Apple Play Store. 78% of the reviews are either 1 star or 5 stars. Positive reviews were driven by ease of use, support for the state government in creating the app, and encouragement for others to download, as well as engage in other COVID-19 precautions. Negative and neutral reviews focused on issues with app functionality (i.e., installation and tracking errors). 
 
 Conclusions: Uptake was the largest barrier to success for ENS apps, but states can use insight from app store reviews to better position themselves if they choose to develop further public health apps. 
+
+Citation:
+
+    @article{
+        title={COVID-19 Contact Tracing App Reviews Reveal Concerns and Motivations around Adoption},
+        author={Erica L. Dixon, Sukanya M. Joshi, William Ferrell, Kevin G. Volpp, Raina M. Merchant, Sharath Chandra Guntuku},
+        journal={Public Library of Science (PLOS) One}, 
+        year={2022}
+    }
