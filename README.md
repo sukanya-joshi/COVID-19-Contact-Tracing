@@ -8,7 +8,7 @@ Methods: We collected review text, star rating, and date of rating for all the r
 
 2) CTM_NMF_Coherence_Scores_Code: We used techniques besides LDA such as Combined Topic Modeling and Non-Negative Matrix Factorization to extract the top 25 topics from our review data. Then, we found out each method's coherence score and chose to use LDA as it had the highest coherence score.
 
-3) Code for LDA Analysis: These are the scripts we used in the DLATK server to perform our LDA analysis. This allowed us to extract topics and ngrams from each review category (high, neutral, negative) and generated the word cloud figures.
+3) LDA Analysis: We used DLATK extract topics and ngrams from each review category (high, neutral, negative) and generated the word cloud figures (https://dlatk.wwbp.org/).
 
 Results: Of 7622 reviews obtained from 26 states between 04/07/2020 to 03/31/2021, 6364 were from Google Play Store, and 1258 were from Apple App Store. We obtained reviews for a total of 38 apps, with 25 apps from the Google Play Store and 13 apps from the Apple Play Store. 78% of the reviews are either 1 star or 5 stars. Positive reviews were driven by ease of use, support for the state government in creating the app, and encouragement for others to download, as well as engage in other COVID-19 precautions. Negative and neutral reviews focused on issues with app functionality (i.e., installation and tracking errors). 
 
